@@ -24,7 +24,7 @@
 | <img src="Cypress.png" width="50"> | Репозиторий Cypress.js   | Репозиторий с примерами автотестов, написанных на Cypress.js.                             | [https://github.com/Xseniyata/Cypress.js](https://github.com/Xseniyata/Cypress.js) |
 | <img src="Python.png" width="50"> | Репозиторий Python автотестов | Репозиторий с примерами автотестов, написанных на Python.                                | [https://github.com/Xseniyata/python_autotests](https://github.com/Xseniyata/python_autotests) |
 | <img src="Telegram.png" width="50"> | Репозиторий Telegram bot | Репозиторий с ссылками на два telegram bot.                                | [https://github.com/Xseniyata/Telegram_bot](https://github.com/Xseniyata/Telegram_bot) |
-| <img src="Checklist.png" width="50"> | Репозиторий Checklists | Репозиторий с Checklist authorization                                | [https://github.com/Xseniyata/Checklists](https://github.com/Xseniyata/Checklists) |
+| <img src="Checklists.png" width="50"> | Репозиторий Checklists | Репозиторий с Checklist authorization                                | [https://github.com/Xseniyata/Checklists](https://github.com/Xseniyata/Checklists) |
 
 
 # Тестирование API и интеграций
