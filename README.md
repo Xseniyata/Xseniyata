@@ -21,7 +21,7 @@
 | <img src="GitHub-logo.png" width="50"> | Моя визитка (GitHub Pages)    | Моя визитка, где можно найти дополнительную информацию обо мне.      | [https://xseniyata.github.io](https://xseniyata.github.io)                 |
 | <img src="Cypress.png" width="50"> | Репозиторий Cypress.js   | Репозиторий с примерами автотестов, написанных на Cypress.js.                             | [https://github.com/Xseniyata/Cypress.js](https://github.com/Xseniyata/Cypress.js) |
 | <img src="Python.png" width="50"> | Репозиторий Python автотестов | Репозиторий с примерами автотестов, написанных на Python.                                | [https://github.com/Xseniyata/python_autotests](https://github.com/Xseniyata/python_autotests) |
-
+| <img src="Telegram.png" width="50"> | Репозиторий Telegram bot | Репозиторий с ссылками на два telegram bot.                                | [https://github.com/Xseniyata/Telegram_bot](https://github.com/Xseniyata/Telegram_bot) |
 
 Объяснение:...
 
