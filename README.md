@@ -16,11 +16,11 @@
 
 ## Важные ссылки
 
-| Иконка          | Название                  | Описание                                                                                   | Ссылка                                                                      |
+| Логотип         | Название                  | Описание                                                                                   | Ссылка                                                                      |
 | --------------- | ------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| <img src="URL_картинки_сайта.png" width="20"> | Моя визитка (GitHub Pages)    | Моя визитка, где можно найти дополнительную информацию обо мне.      | [https://xseniyata.github.io](https://xseniyata.github.io)                 |
-| <img src="URL_картинки_github.png" width="20"> | Репозиторий Cypress.js   | Репозиторий с примерами автотестов, написанных на Cypress.js.                             | [https://github.com/Xseniyata/Cypress.js](https://github.com/Xseniyata/Cypress.js) |
-| <img src="URL_картинки_python.png" width="20"> | Репозиторий Python автотестов | Репозиторий с примерами автотестов, написанных на Python.                                | [https://github.com/Xseniyata/python_autotests](https://github.com/Xseniyata/python_autotests) |
+| <img src="GitHub-logo.png" width="50"> | Моя визитка (GitHub Pages)    | Моя визитка, где можно найти дополнительную информацию обо мне.      | [https://xseniyata.github.io](https://xseniyata.github.io)                 |
+| <img src="Cypress.png" width="50"> | Репозиторий Cypress.js   | Репозиторий с примерами автотестов, написанных на Cypress.js.                             | [https://github.com/Xseniyata/Cypress.js](https://github.com/Xseniyata/Cypress.js) |
+| <img src="Python.png" width="50"> | Репозиторий Python автотестов | Репозиторий с примерами автотестов, написанных на Python.                                | [https://github.com/Xseniyata/python_autotests](https://github.com/Xseniyata/python_autotests) |
 
 
 Объяснение:...
