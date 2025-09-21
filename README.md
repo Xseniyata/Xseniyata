@@ -25,8 +25,6 @@
 | <img src="Checklist.png" width="50"> | Репозиторий Checklists | Репозиторий с Checklist authorization                                | [https://github.com/Xseniyata/Checklists](https://github.com/Xseniyata/Checklists) |
 
 
-Объяснение:...
-
 ## Тестирование API и интеграций
 
 <div>
