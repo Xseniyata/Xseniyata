@@ -18,7 +18,7 @@
 
 | Иконка          | Название                  | Описание                                                                                   | Ссылка                                                                      |
 | --------------- | ------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| <img src="URL_картинки_сайта.png" width="20"> | Мой сайт (GitHub Pages)    | Мой личный сайт, где можно найти дополнительную информацию обо мне и моих проектах.      | [https://xseniyata.github.io](https://xseniyata.github.io)                 |
+| <img src="URL_картинки_сайта.png" width="20"> | Моя визитка (GitHub Pages)    | Моя визитка, где можно найти дополнительную информацию обо мне.      | [https://xseniyata.github.io](https://xseniyata.github.io)                 |
 | <img src="URL_картинки_github.png" width="20"> | Репозиторий Cypress.js   | Репозиторий с примерами автотестов, написанных на Cypress.js.                             | [https://github.com/Xseniyata/Cypress.js](https://github.com/Xseniyata/Cypress.js) |
 | <img src="URL_картинки_python.png" width="20"> | Репозиторий Python автотестов | Репозиторий с примерами автотестов, написанных на Python.                                | [https://github.com/Xseniyata/python_autotests](https://github.com/Xseniyata/python_autotests) |
 
@@ -84,7 +84,11 @@
 
 ## 🎒 Образование
 
-(Информация о вашем образовании)
+[<img src="/Certificate1_ru.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии ## «Инженер по тестированию»">
+<img src="/Certificate1_en.png" width="280px" hspace="10px" alt="Certificate of Completion for the Basic Course in ## «Quality Assurance Engineering»">]
+
+[<img src="/Certificate2_ru.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса ## «Инженер по тестированию»">
+<img src="/Certificate2_en.png" width="280px" hspace="10px" alt="Certificate of Completion for the course in ## «Quality Assurance Engineering»">]
 
 ## 🤝 Контакт
 
